@@ -1,7 +1,7 @@
 <h1 align="center">Priya K M</h1>
 <h3 align="center">A Programmer || Enthusiastic Learner || Java Full Stack Web Developer || Expertise in Crafting Innovative Frontend & Backend Solutions || Available for Immediate Joining </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethan313&label=Profile%20views&color=0e75b6&style=flat" alt="priyakm8123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyakm8123&label=Profile%20views&color=0e75b6&style=flat" alt="priyakm8123" /> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-priyakm8123-blue)](https://www.linkedin.com/in/priya-km-/)
 [![Email](https://img.shields.io/badge/Email-priyakm8123%40gmail.com-blue)](mailto:priyakm8123@gmail.com)
