@@ -1,4 +1,4 @@
-<h1 align="center">Chethan P S</h1>
+<h1 align="center">Priya K M</h1>
 <h3 align="center">A Programmer || Enthusiastic Learner || Java Full Stack Web Developer || Expertise in Crafting Innovative Frontend & Backend Solutions || Available for Immediate Joining </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethan313&label=Profile%20views&color=0e75b6&style=flat" alt="priyakm8123" /> </p>
